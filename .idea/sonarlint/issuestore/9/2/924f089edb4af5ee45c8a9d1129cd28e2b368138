@@ -3,5 +3,5 @@
 java:S1220""Move this file to a named package.
 ?	java:S106"+Replace this use of System.out by a logger.(Ó÷îZ
 E	java:S106"+Replace this use of System.out by a logger.(‚ÞÏ¥ýÿÿÿÿ
-E	java:S106"+Replace this use of System.out by a logger.(Ú»ûÇøÿÿÿÿ
+E	java:S106"+Replace this use of System.out by a logger.(Î™¡Øúÿÿÿÿ
 ?	java:S106"+Replace this use of System.out by a logger.(³™Üu
